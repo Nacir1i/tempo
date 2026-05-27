@@ -76,7 +76,7 @@ function rejectHover() {
       v-if="currentStep === 'FIRST'"
       class="flex gap-4 bg-pink-300 rounded-lg border border-pink-600 p-3 flex-col"
     >
-      <p>Can he remake the app ???</p>
+      <p>Can he remake the app ????</p>
 
       <div class="flex gap-4 flex-1">
         <button
