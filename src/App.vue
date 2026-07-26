@@ -101,7 +101,7 @@ function rejectHover() {
 
     <img
       v-if="currentStep === 'SECOND'"
-      src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJlbHEyNmJnc25mNDg1aGFwaHFqdGl2YWFiZGEzc25rd3I1Z241NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zNbiX43QsqUAU/giphy.gif"
+      src="https://media.tenor.com/Y2l2BhDU_6sAAAAi/silly-kitties-sillykitties.gif"
       alt="damnright"
     />
   </div>
