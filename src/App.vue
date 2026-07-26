@@ -76,7 +76,9 @@ function rejectHover() {
       v-if="currentStep === 'FIRST'"
       class="flex gap-4 bg-pink-300 rounded-lg border border-pink-600 p-3 flex-col"
     >
-      <p>Can he remake the app ????</p>
+      <p>Hello meryem ❤️</p>
+
+      <p>Do you like me ?</p>
 
       <div class="flex gap-4 flex-1">
         <button
@@ -89,6 +91,7 @@ function rejectHover() {
           ref="noButton"
           class="p-1 bg-red-300 rounded-lg border border-red-700"
           @mouseenter="rejectHover"
+          @click="rejectHover"
           :style="{ transform: `translate(${offset[0]}px, ${offset[1]}px)` }"
         >
           No
